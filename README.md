@@ -24,5 +24,7 @@ Este projeto é um cardápio online de hamburgueria desenvolvido em HTML, CSS, T
 4. **Abra o projeto:** Acesse o endereço `http://localhost:5173/` em seu navegador.
 5. **Personalize:** Modifique o código para ajustar o nome da hamburgueria, número de WhatsApp, itens do menu e preços.
 
+### Demonstração:
 
+Para ver o projeto em funcionamento, acesse: [https://dev-burguer-kappa.vercel.app/](https://dev-burguer-kappa.vercel.app/)
 
